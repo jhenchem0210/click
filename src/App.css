@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   color: white;
-  background-image: linear-gradient(79deg, #3972dd, #30b4a9 48%, #0e9461);
+  background-image: linear-gradient(79deg, #5388eb, #4dcec3 48%, #0e9461);
 }
 
 .auth-form-container, .login-form, .register-form {
@@ -36,7 +36,7 @@ input {
 
 button {
   border: none;
-  background-color: rgb(121, 223, 236);
+  background-color: rgb(102, 216, 231);
   padding: 17px;
   border-radius: 10px;
   cursor: pointer;
